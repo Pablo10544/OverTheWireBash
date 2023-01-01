@@ -1,0 +1,1 @@
+ cat data.txt | grep -a "={2,1000}" -E
