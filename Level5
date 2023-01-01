@@ -1,0 +1,4 @@
+find . -size 1033c -type f
+file ./inhere/maybehere07/.file2
+cat ./inhere/maybehere07/.file2
+
