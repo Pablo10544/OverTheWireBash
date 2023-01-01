@@ -1,0 +1,4 @@
+cd ..
+cd..
+find . -size 33c -group bandit6 2>/dev/null
+cat ./var/lib/dpkg/info/bandit7.password
